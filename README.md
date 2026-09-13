@@ -16,8 +16,8 @@ Open to remote roles and freelance work.
 | **StartupAI** | `private` | B2B lead-generation SaaS I built alone over nine months: 2,461 commits, 220K lines of Python, 3,835 tests. A multi-provider AI router with circuit breakers and daily token budgets. | Flask · Celery · Redis · PostgreSQL |
 | **[Mose](https://trymose.com)** | `live` | AI content automation, developed for a client. It reads a site and its Search Console signals, turns visible gaps into reviewable content decisions, and publishes to WordPress and Shopify. | FastAPI · Celery · Next.js |
 | **[Collider](https://collider.emircancaglar.com)** | `live` | An idea engine. Forced analogy, a panel of disagreeing personas, constraint inversion and TRIZ attack one problem in parallel across Claude, GPT, DeepSeek and Groq, then an evolutionary pass breeds the survivors. | FastAPI · SSE · MCP |
-| **[codex-fleet-cc](https://github.com/cglremrcn/codex-fleet-cc)** | `preview` | A Claude Code plugin that runs bounded Codex lanes (research, implement, verify) from a keyboard-first terminal console. | Node.js · node-pty |
-| **[Seyrivo](https://seyrivo.com)** | `on request` | Fleet operations software for shipping fleets of 5–30 vessels. A pipeline on Cloudflare Workers, D1 and Queues prepares a private demo for each prospect. | Astro · Cloudflare |
+| **[codex‑fleet‑cc](https://github.com/cglremrcn/codex-fleet-cc)** | `preview` | A Claude Code plugin that runs bounded Codex lanes (research, implement, verify) from a keyboard-first terminal console. | Node.js · node-pty |
+| **[Seyrivo](https://seyrivo.com)** | `on request` | Fleet operations software for shipping fleets of 5–30 vessels. A pipeline on Cloudflare Workers, D1 and Queues prepares a private demo for each prospect. | Astro · Cloudflare |
 
 ## 3D web
 
