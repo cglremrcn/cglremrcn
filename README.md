@@ -12,7 +12,7 @@ Open to remote roles and freelance work.
 
 | system | state | what it does | stack |
 |---|---|---|---|
-| **[Biz Alırız](https://bizaliriz.com)** | `live` | Values used cars from 400K+ market listings and makes same-day cash offers. A YOLOv9 detector censors license plates on CPU inside the service, so customer photos never leave the machine. | FastAPI · PostgreSQL · ONNX · Astro |
+| **[Biz Alırız](https://bizaliriz.com)** | `live` | Values used cars from 500K+ market listings and makes same-day cash offers. A YOLOv9 detector censors license plates on CPU inside the service, so customer photos never leave the machine. | FastAPI · PostgreSQL · ONNX · Astro |
 | **StartupAI** | `private` | B2B lead-generation SaaS I built alone over nine months: 2,461 commits, 220K lines of Python, 3,835 tests. A multi-provider AI router with circuit breakers and daily token budgets. | Flask · Celery · Redis · PostgreSQL |
 | **[Mose](https://trymose.com)** | `live` | AI content automation, developed for a client. It reads a site and its Search Console signals, turns visible gaps into reviewable content decisions, and publishes to WordPress and Shopify. | FastAPI · Celery · Next.js |
 | **[Collider](https://collider.emircancaglar.com)** | `live` | An idea engine. Forced analogy, a panel of disagreeing personas, constraint inversion and TRIZ attack one problem in parallel across Claude, GPT, DeepSeek and Groq, then an evolutionary pass breeds the survivors. | FastAPI · SSE · MCP |
